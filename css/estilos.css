@@ -49,3 +49,17 @@ body{
 height: 118px;
 margin-left: 43%;
 }
+#redes-sociales img{
+width: 47px;
+height: 47px;
+display: flex;
+display: inline-block;
+text-align: center;
+justify-content: center;
+margin-left: 213px;
+border-radius: 32px;
+}
+#facce{
+    margin-right: 10px;
+    margin-right: 1px;
+}
